@@ -130,6 +130,7 @@ p {
   height: 600px;
   width: 600px;
   margin: 10% 5% 10% 5%;
+  transform: rotate(20deg);
 }
 
 .img8 {
